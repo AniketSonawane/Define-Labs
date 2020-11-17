@@ -1,0 +1,144 @@
+/* *{
+    background-color: red;
+} */
+
+.main-logo{
+    margin-left: 100px;
+}
+.top-content{
+    margin-left: 300px;
+    padding: 7px;
+    /* height: 20px; */
+}
+
+/* Second Layer */
+.inn{
+    height: 500px;
+    background-image: url(images/slider-one.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.text{
+    margin-left: 180px;
+    padding-top: 225px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+.text-2{
+    margin-left: 180px;
+ 
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* Third Layer */
+
+element.style {
+}
+#tl {
+    background-color: #0bcce4;
+    padding: 50px 0;}
+
+#third-layer{
+
+    background-color:#03c4a1;
+    height: 200px;
+}
+
+.text-3{
+  font-family: 'Roboto Mono', monospace;
+ padding-top: 10px;
+ padding-left:200px ;
+  
+}
+.text-4{
+    display: inline-block;
+   word-wrap: break-word;
+    padding-left: 150px;
+    padding-right: 100px;
+    padding-top: 5px;
+ 
+}
+.btn-info{
+    margin-left: 950px;
+    margin-bottom: 100px;
+}
+
+/* Features */
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+ .feature-box{
+     padding: 5%;
+     text-align: center;
+     
+ }
+ .icon{
+     margin-bottom: 10px;
+     color:#ef8172;
+ }
+
+ .icon:hover{
+     color: #ff4c68;
+ }
+ .head-fea
+          {
+              text-align: center;
+          }
+
+.how-section1{
+    margin-top:-15%;
+    padding: 10%;
+}
+.how-section1 h4{
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    color: #3931af;
+    font-size: 20px;
+}
+.how-section1 .row
+{
+    margin-top: 10%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 40%;
+}
+.h12{
+    text-align: center;
+}
+#foot{
+    background-color: black;
+    color: azure;
+    text-align: left;
+}
+.foot-h{
+    color: aqua;
+}
+#footer{
+    background-color: black;
+    text-align: right;
+    padding-right: 40px;
+}
+
+/* @media(min-width:798px){
+    .h12{
+        text-align: center;
+    }
+} */
+    @media (max-width: 798px){
+        #footer{
+    text-align: center;
+        }
+    }
+
